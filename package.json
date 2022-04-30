@@ -1,0 +1,19 @@
+{
+  "name": "reactt",
+  "version": "1.0.0",
+  "description": "it's okay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poyelana/react.git"
+  },
+  "author": "segun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poyelana/react/issues"
+  },
+  "homepage": "https://github.com/poyelana/react#readme"
+}
